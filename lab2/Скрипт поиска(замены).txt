@@ -1,0 +1,3 @@
+class $Class$ {
+  $ReturnType$ $Method$ ($ParameterType$ $Parameter$);
+}
