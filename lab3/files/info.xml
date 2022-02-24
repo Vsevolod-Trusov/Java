@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="by.trusov.one.track.Track">
+    <void property="cost">
+     <double>250.0</double>
+    </void>
+    <void property="fuelconsumption">
+     <double>5.0</double>
+    </void>
+    <void property="model">
+     <string>MAN-630</string>
+    </void>
+    <void property="speed">
+     <int>40</int>
+    </void>
+    <void property="transportedcargo">
+     <string>Tree</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.trusov.one.PassengerCar">
+    <void property="cost">
+     <double>350.0</double>
+    </void>
+    <void property="fuelconsumption">
+     <double>8.0</double>
+    </void>
+    <void property="model">
+     <string>Toyota Celica</string>
+    </void>
+    <void property="numberofseats">
+     <int>5</int>
+    </void>
+    <void property="speed">
+     <int>90</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.trusov.one.PassengerCar">
+    <void property="cost">
+     <double>550.5</double>
+    </void>
+    <void property="fuelconsumption">
+     <double>8.0</double>
+    </void>
+    <void property="model">
+     <string>Chevrolet Camaro</string>
+    </void>
+    <void property="numberofseats">
+     <int>2</int>
+    </void>
+    <void property="speed">
+     <int>1000</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.trusov.one.PassengerCar">
+    <void property="cost">
+     <double>450.5</double>
+    </void>
+    <void property="fuelconsumption">
+     <double>10.0</double>
+    </void>
+    <void property="model">
+     <string>Toyota Camri</string>
+    </void>
+    <void property="numberofseats">
+     <int>5</int>
+    </void>
+    <void property="speed">
+     <int>80</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.trusov.one.track.Track">
+    <void property="cost">
+     <double>350.9</double>
+    </void>
+    <void property="fuelconsumption">
+     <double>12.0</double>
+    </void>
+    <void property="model">
+     <string>Gaz-5050</string>
+    </void>
+    <void property="speed">
+     <int>50</int>
+    </void>
+    <void property="transportedcargo">
+     <string>Seed</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
