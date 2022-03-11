@@ -1,0 +1,8 @@
+11.03.2022 08:28:57 [main] INFO  class Main  - Program is started.
+11.03.2022 08:28:58 [main] INFO  class Main  - Connetion is opened
+11.03.2022 08:28:58 [main] INFO  class Main  - The First query is done
+11.03.2022 08:28:58 [main] INFO  class Main  - The Second query is done
+11.03.2022 08:28:58 [main] INFO  class Main  - The Third query is done
+11.03.2022 08:28:58 [main] INFO  class Main  - The Fourth query is done
+11.03.2022 08:28:58 [main] INFO  class Main  - Connetion is closed
+11.03.2022 08:28:58 [main] INFO  class Main  - Program is excecuted
